@@ -26,10 +26,6 @@
 	--color-primary-900: oklch(0.393 0.095 152.535);
 	--color-primary-950: oklch(0.266 0.065 152.934);
 
-    --color-vast-beige: #B0A89E;
-    --color-vast-dark: #0A0A0A;
-    --color-vast-orange: #FF4D00;
-
 	--font-body: "Inter", sans-serif;
     --font-mono: "Space Mono", monospace;
 	--font-display: var(--font-body);
